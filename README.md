@@ -34,6 +34,10 @@ RT = time of keypress - time when Go stimulus is processed in the visual buffer
 - `converted/` - Contains `.csv` files converted from raw traces.
 - `RTs/` - Contains final `.csv` files with calculated RTs.
 
+## Usage
+
+1. **IMPORTANT**: Ensure the `data/raw` folder is cleared before each run to prevent overwriting or duplicate files.
+2. Run `pyactrGoNogo.py`. *(Set `realtime=True` in `sim = m.simulation()` if you want to visualize the task)*
+3. Run `analysis.py` to convert and compute RTs.
+
 > **Disclaimer**: This project was developed as an undergraduate research exercise. It is not validated for use in real experimental settings. If you intend to use or adapt this code for scientific experiments, please thoroughly review the logic, methodology, and implementation.
-
-
