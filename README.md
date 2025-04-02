@@ -2,6 +2,8 @@
 
 This project is a simple implementation of the classic Go/No-Go psychological task using `pyactr`.
 
+> **Disclaimer**: This project was developed as an undergraduate research exercise. It is not validated for use in real experimental settings. If you intend to use or adapt this code for scientific experiments, please thoroughly review the logic, methodology, and implementation.
+
 ## Task Overview
 
 - **Go Trials**: Indicated by the letter `'A'`.
@@ -33,7 +35,5 @@ RT = time of keypress - time when Go stimulus is processed in the visual buffer
 - `RTs/` - Contains final `.csv` files with calculated RTs.
 
 > **Disclaimer**: This project was developed as an undergraduate research exercise. It is not validated for use in real experimental settings. If you intend to use or adapt this code for scientific experiments, please thoroughly review the logic, methodology, and implementation.
-
-And that, dear mortals, concludes the README. You’re welcome.
 
 
