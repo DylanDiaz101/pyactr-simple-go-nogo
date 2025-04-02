@@ -41,3 +41,7 @@ RT = time of keypress - time when Go stimulus is processed in the visual buffer
 3. Run `analysis.py` to convert and compute RTs.
 
 > **Disclaimer**: This project was developed as an undergraduate research exercise. It is not validated for use in real experimental settings. If you intend to use or adapt this code for scientific experiments, please thoroughly review the logic, methodology, and implementation. Feel free to fork and update.
+
+## Documentation
+For more information on how pyactr works, refer to the official documentation:
+https://github.com/jakdot/pyactr
