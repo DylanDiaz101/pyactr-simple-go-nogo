@@ -2,7 +2,7 @@
 
 This project is a simple implementation of the classic Go/No-Go psychological task using `pyactr`.
 
-> **Disclaimer**: This project was developed as an undergraduate research exercise. It is not validated for use in real experimental settings. If you intend to use or adapt this code for scientific experiments, please thoroughly review the logic, methodology, and implementation. Feel free to fork and update.
+> **Disclaimer**: This project was developed as an undergraduate research exercise. It is not validated for use in real experimental settings. If you intend to use or adapt this code for scientific experiments, please thoroughly review the logic, methodology, and implementation. Feel free to fork and update as needed.
 
 ## Task Overview
 
